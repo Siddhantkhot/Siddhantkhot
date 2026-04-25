@@ -6,9 +6,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Siddhantkhot&color=6C63FF&style=flat)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/siddhantkhot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/siddhant-khot-1090b2262/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=vercel)](https://your-portfolio-link.vercel.app)
 
 </div>
 
@@ -18,7 +17,7 @@
 
 ### 👨‍💻 About me
 
-- 🎓 BCA Graduate (2025) · CGPA 8.5 · Pune, India
+- 🎓 BCA Graduate (2025) · CGPA 8.7 · Pune, India
 - 💼 Interned at **Elevate Labs** — built & deployed full-stack apps
 - 🔥 Flagship project: **[Sivora](https://github.com/Siddhantkhot/Sivora)** — real-time MERN chat app
 - 🌱 Currently exploring **ServiceNow CSA** & **Salesforce Admin**
@@ -94,7 +93,7 @@
 <div align="center">
   <i>Open to work — let's build something great together!</i>
   <br/><br/>
-  <a href="https://linkedin.com/in/siddhantkhot">
+  <a href="https://www.linkedin.com/in/siddhant-khot-1090b2262/">
     <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
