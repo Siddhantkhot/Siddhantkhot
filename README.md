@@ -80,15 +80,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Siddhantkhot&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
----
-
-### 🐍 Contribution graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Siddhantkhot/Siddhantkhot/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 <div align="center">
   <i>Open to work — let's build something great together!</i>
