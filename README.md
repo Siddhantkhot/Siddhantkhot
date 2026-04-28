@@ -13,14 +13,11 @@
 
 ---
 
-<img align="right" alt="coding" width="340" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445584f4e4a4f574e52525341462f6b6531375a77644742754f776e61715a376e466f51512e676966">
-
 ### 👨‍💻 About me
 
 - 🎓 BCA Graduate (2025) · CGPA 8.7 · Pune, India
 - 💼 Interned at **Elevate Labs** — built & deployed full-stack apps
 - 🔥 Flagship project: **[Sivora](https://github.com/Siddhantkhot/Sivora)** — real-time MERN chat app
-- 🌱 Currently exploring **ServiceNow CSA** & **Salesforce Admin**
 - 🚀 Open to **frontend & full-stack developer** roles in Pune
 - ⚡ Fun fact: I also follow stock markets and trade on the side
 
